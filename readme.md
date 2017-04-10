@@ -6,7 +6,7 @@ You can download the last version: [download](https://autohotkey.com/download/).
 The official tutorial: [tuto](https://autohotkey.com/docs/Tutorial.htm)
 
 ----------
-####Create a script
+#### Create a script
 
 - Write your script
 - Save your script in a `.ahk`
