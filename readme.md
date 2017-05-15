@@ -3,7 +3,9 @@
 For Windows : <br/>
 You can download the last version: [download](https://autohotkey.com/download/).
 
-The official tutorial: [tuto](https://autohotkey.com/docs/Tutorial.htm)
+The official tutorial: [tuto](https://autohotkey.com/docs/Tutorial.htm) ([beginner](https://autohotkey.com/docs/Tutorial.htm#s11)) and for use of the [clipboard](https://autohotkey.com/docs/misc/Clipboard.htm)
+
+Some other [tuto](https://www.computerhope.com/tips/tip209.htm)
 
 ----------
 #### Create a script
