@@ -3,3 +3,4 @@
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
+::Hello::Hello World{!} welcome to the script. ;Print the phrase when typing "Hello" and pressing enter
