@@ -4,5 +4,5 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ^!g::                                       
-   run, iexplore.exe https://www.google.ca                        ; Run the program firefox.exe with google when you press Alt & Ctrl & g
+   run, iexplore.exe https://www.google.ca   ; Run the internet explorer (works with firefox.exe) with google when you press Alt & Ctrl & g
 Return   
